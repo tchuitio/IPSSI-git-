@@ -1,2 +1,0 @@
-# IPSSI-git-
- IPPSI REPOSITORY
